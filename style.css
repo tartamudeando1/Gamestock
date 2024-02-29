@@ -8,4 +8,7 @@ body{
     background-color: var(--fundo);
     color: var(--letras);
 }
+header{
+    display: flex;
+}
 /* estilo da página*\
