@@ -1,4 +1,10 @@
+:root{
+--fundo:  #000000;
+}
+:root{
+    --letras:  #ffffff;
+    }
 body{
-    background-color: black;
-    color: white;
+    background-color: var(--fundo);
+    color: var(--letras);
 }
