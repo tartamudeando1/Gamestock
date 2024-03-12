@@ -27,12 +27,6 @@ header{
     justify-items: center;
     align-items: center;
   }.container img { max-width: 5; }
-  *
-  .logo {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-items: right;
-    align-items: right;
-  }.container img { max-width: 5; }
+  
+  
 /* estilo da página*\
