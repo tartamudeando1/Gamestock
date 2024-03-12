@@ -26,5 +26,5 @@ header{
     flex-wrap: wrap;
     justify-items: center;
     align-items: center;
-  }.container img { max-width: 20; }
+  }.container img { max-width: 5; }
 /* estilo da página*\
