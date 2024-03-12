@@ -34,5 +34,5 @@ header{
     flex-wrap: wrap;
     justify-items: right;
     align-items: right;
-  }.container img { max-width: 50%; }
+  }.container img { max-width: 50; }
 /* estilo da página*\
