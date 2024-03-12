@@ -12,7 +12,8 @@ header{
     display: flex;
 }
 .jogo{
-    width:20%;
+    width:20;
+    height: 20;
 }
 * {
     margin: 20;
