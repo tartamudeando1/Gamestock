@@ -40,11 +40,11 @@ flex-direction: row;
 }  
 .equipe{
   display:grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: 10% 10% 10%;
 }
 
 .foto-equipe{
-  width: 30%;
+  width: 10%;
 }
 
 .div-equipe{
