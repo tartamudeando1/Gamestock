@@ -64,14 +64,6 @@ flex-direction: row;
 
 
 
-.jogo{
-  display:grid;
-  grid-template-columns: 33% 33% 33%;
-}
-
-.foto-jogo{
-  width: 35%;
-}
 
 .div-jogo{
   border: 2px solid;
