@@ -71,16 +71,17 @@ flex-direction: row;
 }
 
 .jogo{
-  width: 35%;
+  width: 75%;
 }
 .console{
-  width: 20%;
+  width: 60%;
 }
 .acessorio{
-  width: 10%;
+  width: 50%;
 }
+
 .jog{
-  width: 70%;
+  width: 75%;
 }
 
 .jo{
