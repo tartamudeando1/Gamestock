@@ -32,12 +32,12 @@ header{
     align-items: center;
   }.container img { max-width: 5; }
 *
-.jogo
+/* .jogo
 {
 display:flex;
 flex-direction: row;
 
-}  
+}   */
 .equipe{
   display:grid;
   grid-template-columns: 33% 33% 33%;
@@ -64,20 +64,7 @@ flex-direction: row;
 
 
 
-
-
-
-.jogo{
-  width: 75%;
-}
-.console{
-  width: 60%;
-}
-.acessorio{
-  width: 50%;
-}
-
-.jog{
+/* .jog{
   width: 105%;
 }
 
@@ -91,6 +78,6 @@ flex-direction: row;
 
 .ja{
   width: 130%;
-}
+} */
 
 /* estilo da página*\
